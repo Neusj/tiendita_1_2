@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tiendita frutas 1 y 2</string>
+
+    <string name="titulo"> Bienvenido a tiendita 1 y 2</string>
+
+    <string name="mango"> Mango</string>
+    <string name="frutilla"> Frutilla</string>
+    <string name="manzana"> Manzana</string>
+
+    <string name="btnVer"> Ver</string>
+
+</resources>
